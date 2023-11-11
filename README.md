@@ -1,5 +1,6 @@
 # Stairs of Saclay
 
+![](img/guichet.jpg)
 
 This project is a research paper that was written in Saclay, France, to answer the follwing question:
 
