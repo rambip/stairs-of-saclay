@@ -1,5 +1,7 @@
 # Stairs of Saclay
 
+➪ [**The paper**](https://raw.githubusercontent.com/rambip/stairs-of-saclay/main/Stairs_of_Saclay.pdf) 
+
 ![](img/guichet.jpg)
 
 This project is a research paper that was written in Saclay, France, to answer the follwing question:
@@ -10,11 +12,8 @@ This project is a research paper that was written in Saclay, France, to answer t
 
 If you don't know what it is about, it is an endless debate between students on the best way to go from the [School Campus](https://www.ecosia.org/search?q=plateau%20de%20saclay&addon=firefox&addonversion=4.1.0&method=topbar) to the nearest city-train station.
 
-## The paper
+Have a good read (link at the top of this file)
 
-Click [here](./Stairs_of_Saclay.pdf)
-
-Have a good read !
 
 ## Data
 
